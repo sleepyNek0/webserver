@@ -1,0 +1,6 @@
+[package]
+name = "webserver"
+version = "0.1.0"
+authors = ["sleepyNeko__ https://twitter.com/sleepyNeko__"]
+
+[dependencies]
